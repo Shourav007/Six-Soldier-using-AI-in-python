@@ -5,6 +5,7 @@ At the beginning ,the turn is decided by using toss . <br>
 <br>
 In this game, minmax algorithm is used for AI and alpha beta pruning for optimizing the algorithm.
 
+
 # Player
   1. Human (Blue color)
   2. Computer (White color)
@@ -34,5 +35,6 @@ Have to finish all the opponent soldier.<br>
 # Requirement
   1. python
   2. pygame
+pygame must be installed on the different environment
 
 run the main.py file.
