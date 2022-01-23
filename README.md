@@ -35,6 +35,8 @@ Have to finish all the opponent soldier.<br>
 # Requirement
   1. python
   2. pygame 
-<br> pygame must be installed on the different environment
+
+
+<br>pygame must be installed on the different environment
 
 run the main.py file.
